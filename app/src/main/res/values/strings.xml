@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me Kotlin</string>
+    <string name="name">Shubham Dhage</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">I perceive my self as a confident and hardworking individual.
+        I carry out any task assigned to me without hesitation, provided the instructions are clear. I am impatent which
+        is the reason why i am quick learner. On the other hand, I am creative person and I love to test my boundaries.
+        In order to do so, I keep pushing myself to think out of the box.I perceive my self as a confident and
+        hardworking individual. I carry out any task assigned to me without hesitation, provided the instructions are
+        clear.
+        I am impatent which is the reason why i am quick learner. On the other hand, I am creative person and I love to
+        test my boundaries. In order to do so,
+        I keep pushing myself to think out of the box
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
